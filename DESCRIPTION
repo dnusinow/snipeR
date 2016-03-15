@@ -1,0 +1,12 @@
+Package: snipeR
+Version: 0.7.6
+Date: 2011-10-17
+Title: Software for Network Inference of Proteomics Experiments
+Author: David Nusinow <dnusinow@partners.org>
+Maintainer: David Nusinow <dnusinow@partners.org>
+Depends: Matrix, foreach, optparse, stringr, RSQLite
+Suggests: doMC, doSMP
+Description: Implements the Software for Network Inference of Proteomics Experiments (SNIPE) algorithm.
+License: GPL-2
+URL: http://genetics.bwh.harvard.edu/genetics/labs/Sunyaev/index.html
+Packaged: 2010-06-14 17:38:03 UTC; david

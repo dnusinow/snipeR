@@ -1,0 +1,2 @@
+export(snipe, download.missing.maps, string.aliases.to.sqlite, string.raw.to.sqlite)
+importFrom("Matrix", as.vector)
